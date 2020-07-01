@@ -2,14 +2,13 @@
 ---
 
 
-```
+
 /asset/[jquery.slim.min.js](https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js)
-       bootstrap.min.css
-       bootstrap.bundle.min.js
+       [bootstrap.min.css]()
+       [bootstrap.bundle.min.js]()
        
 
 
-```
 
 ```
 ```
