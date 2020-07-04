@@ -1,7 +1,7 @@
 ### Dropdown Menu Animation for Bootstrap Navbar | snippets1
 ---
 
-#### [snippets10](https://takagotch.github.io/snippets10/)
+#### [snippets10](https://github.com/takagotch/snippets10/)
 
 ---
 
