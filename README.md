@@ -63,7 +63,10 @@
 ```
 
 ```
-
+// other
+https://github.com/takagotch/snippets9
+https://github.com/takagotch/snippets18
+...
 
 ```
 
